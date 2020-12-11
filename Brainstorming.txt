@@ -1,0 +1,15 @@
+Hero
+Ennemi
+PNJ
+Objet 
+Equipement
+Compétence 
+Arbre de compétence:
+	centré sur les émotions: -colère -tristesse -peur -joie -amour(fin)
+
+Choix qui influe sur l'histoire 
+	système de jauge: ethique(influencé de manière extérieur: ex(PNJ))  
+			  moral_interne() comment?
+
+Système changement de couleur ? terne ?  
+
